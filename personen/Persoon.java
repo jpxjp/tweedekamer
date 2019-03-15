@@ -4,7 +4,7 @@ public abstract class Persoon {
 	private String naam;
 	private String geboortedatum;
 	private char gender;
-
+// testwijziging
 	public void setGeboortedatum(String value) { this.geboortedatum = value; }
 	public String getGeboortedatum() { return this.geboortedatum; }
 	
